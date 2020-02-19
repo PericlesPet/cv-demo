@@ -7,14 +7,14 @@
 
 
 ```
-chmod +x *.sh
+chmod +x scripts/*.sh
 ```
 
 Πρώτα, κατεβάστε τα βάρη [εδώ](https://we.tl/t-ovKahZfelq) (33MB), επειδή το github δεν επιτρέπει αρχεία άνω των 25MB. 
 Τα βάρη βάλτε βάλ'τε τα στον φάκελο cv-demo και θα τοποθετηθούν στην σωστή θέση με το bash script weights.sh
 
 ```
-./weights.sh
+scripts/weights.sh
 ```
 
 ## Darknet
@@ -27,13 +27,13 @@ chmod +x *.sh
 
 Αν τρέξετε το script run_darknet.sh τότε θα γίνει το compilation του darknet και θα ξεκινήσει η ενδεικτική εκπαίδευση:
 ```
-./run_darknet.sh
+scripts/run_darknet.sh
 ```
 
 Αφού γίνει το compilation, μπορείτε να κάνετε "pseudo-labeling" του σετ επαλήθευσης, δημιουργώντας ως "annotations" τα αποτελέσματα του "inference" του δικτύου στις εικόνες που χρησιμοποιούνται για επαλήθευση, και να δείτε οπτικά το αποτέλεσμα με το εργαλείο Yolo_Mark. Για διευκόλυνση έχουμε ήδη κατεβασμένο το Yolo_Mark σε αυτόν τον φάκελο.
 Τρέξτε: 
 ```
-./run_yolomark.sh
+scripts/run_yolomark.sh
 ```
 
 **Σημείωση:** Για να κλείσει το Yolo_mark πρέπει να δώσετε Termination Signal από το τερματικό. Στο τερματικό από το οποίο τρέξατε το run_yolomark.sh, πατήστε **Ctrl+C** 
@@ -44,7 +44,7 @@ chmod +x *.sh
 Χρειάζεται εγκατάσταση του OpenCV για Python, αλλά θεωρητικά αν κάνατε τις απαραίτητες εγκαταστάσεις για το YOLOv3 είστε καλυμμένοι. 
 
 ```
-./run_bev.sh 
+scripts/run_bev.sh 
 ```
 
 ## Label Conversion
@@ -55,7 +55,7 @@ chmod +x *.sh
 Υπάρχουν 2 shell scripts για εδώ, ώστε να φανεί η διαφορά πριν και μετά.
 
 ```
-./run_label_conversion_pt1.sh 
+scripts/run_label_conversion_pt1.sh 
 ```
 
 Τώρα φαίνεται πως θα τις "έβλεπε" τις εικόνες το νευρωνικό αν χρησιμοποιούσαμε το dataset αυτούσιο. Το κεντρικό νόημα είναι ότι έχει αλλάξει η "σειρά" των κλάσεων, οπότε όλα είναι λάθος.
@@ -64,7 +64,7 @@ chmod +x *.sh
 Για να κάνετε την μετατροπή των label, τρέξτε:
 
 ```
-./run_label_conversion_pt2.sh 
+scripts/run_label_conversion_pt2.sh 
 ```
 Αφού τελειώσετε, πατήστε πάλι **Ctrl+C** από το τερματικό.
 

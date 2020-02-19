@@ -1,11 +1,17 @@
-data/img/air1.jpg
-data/img/air2.jpg
-data/img/air3.jpg
-data/img/air4.jpg
-data/img/air5.jpg
-data/img/air6.jpg
-data/img/air7.jpg
-data/img/bird1.jpg
-data/img/bird2.jpg
-data/img/bird3.jpg
-data/img/bird4.jpg
+../Label Conversion/imgs/20191126_155421.jpg
+../Label Conversion/imgs/20191126_155423.jpg
+../Label Conversion/imgs/20191126_155427.jpg
+../Label Conversion/imgs/20191126_155430.jpg
+../Label Conversion/imgs/20191126_160219.jpg
+../Label Conversion/imgs/20191126_160223.jpg
+../Label Conversion/imgs/20191126_160225.jpg
+../Label Conversion/imgs/20191126_160351.jpg
+../Label Conversion/imgs/IMG_20191126_160413.jpg
+../Label Conversion/imgs/IMG_20191126_161129.jpg
+../Label Conversion/imgs/IMG_20191126_161132.jpg
+../Label Conversion/imgs/IMG_20191126_161135.jpg
+../Label Conversion/imgs/IMG_20191126_161139.jpg
+../Label Conversion/imgs/IMG_20191126_161142.jpg
+../Label Conversion/imgs/IMG_20191126_161146.jpg
+../Label Conversion/imgs/IMG_20191126_161149.jpg
+../Label Conversion/imgs/IMG_20191126_161200.jpg

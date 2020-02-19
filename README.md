@@ -1,17 +1,19 @@
-# Καλωσήρθατε στο demo μηχανικής όρασης της Aristurtle
+# Καλωσήρθατε στο demo μηχανικής όρασης για ανίχνευση αντικειμένων!
 
 Έχουμε φροντίσει ώστε ότι είναι να τρέξει είναι έτοιμο σε bash script στην ρίζα του φακέλου cv-demo για διευκόλυνση.
 
 Υπάρχουν λοιπόν 6 bash scripts, τα run_darknet.sh,  run_yolomark.sh, run_label_conversion_pt1.sh, run_label_conversion_pt2.sh και run_BEV.sh και weights.sh, τα οποία εξηγούνται παρακάτω.  
-Δώστε δικαιώματα εκτέλεσης στα bash scripts ώστε να μπορούν να τρέξουν:
+Κατεβάστε τον φάκελο στον υπολογιστή σας και δώστε δικαιώματα εκτέλεσης στα bash scripts ώστε να μπορούν να τρέξουν:
 
 
 ```
+git clone https://github.com/PericlesPet/cv-demo.git
+cd cv-demo/
 chmod +x scripts/*.sh
 ```
 
 Πρώτα, κατεβάστε τα βάρη [εδώ](https://we.tl/t-ovKahZfelq) (33MB), επειδή το github δεν επιτρέπει αρχεία άνω των 25MB. 
-Τα βάρη βάλτε βάλ'τε τα στον φάκελο cv-demo και θα τοποθετηθούν στην σωστή θέση με το bash script weights.sh
+Τα βάρη βάλ'τε τα στον φάκελο cv-demo και θα τοποθετηθούν στην σωστή θέση με το bash script weights.sh
 
 ```
 scripts/weights.sh

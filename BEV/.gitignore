@@ -1,0 +1,24 @@
+*.log
+*.o
+*.a
+*.so
+*.dSYM
+*.csv
+*.out
+*.pyc
+.fuse*
+lib*
+
+.vscode/
+
+# specific files for this project
+.cproject
+.metadata/
+.project
+Debug/
+# OS Generated #
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp

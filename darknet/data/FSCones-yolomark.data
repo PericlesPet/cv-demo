@@ -1,0 +1,6 @@
+classes= 4
+train  = data/fs-train.txt
+valid  = data/yolomark-test.txt
+names = data/FSCones.names
+backup = backup/
+

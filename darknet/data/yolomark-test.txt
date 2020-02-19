@@ -1,0 +1,179 @@
+./data/yolomark-test/Screenshot (53).jpg
+./data/yolomark-test/IMG_20191126_155444.jpg
+./data/yolomark-test/IMG_20191126_160055.jpg
+./data/yolomark-test/IMG_20191126_160509.jpg
+./data/yolomark-test/Screenshot (72).jpg
+./data/yolomark-test/IMG_20191126_160439.jpg
+./data/yolomark-test/IMG_20191126_160134.jpg
+./data/yolomark-test/IMG_20191126_155538.jpg
+./data/yolomark-test/Screenshot (70).jpg
+./data/yolomark-test/IMG_20191126_160415.jpg
+./data/yolomark-test/Screenshot (91).jpg
+./data/yolomark-test/20191126_160148.jpg
+./data/yolomark-test/IMG_20191126_161132.jpg
+./data/yolomark-test/Screenshot (66).jpg
+./data/yolomark-test/IMG_20191126_160054.jpg
+./data/yolomark-test/IMG_20191126_155348.jpg
+./data/yolomark-test/IMG_20191126_160432.jpg
+./data/yolomark-test/Screenshot (79).jpg
+./data/yolomark-test/IMG_20191126_160926.jpg
+./data/yolomark-test/IMG_20191126_160804.jpg
+./data/yolomark-test/20191126_160202.jpg
+./data/yolomark-test/Screenshot (83).jpg
+./data/yolomark-test/IMG_20191126_161233.jpg
+./data/yolomark-test/Screenshot (59).jpg
+./data/yolomark-test/IMG_20191126_160923.jpg
+./data/yolomark-test/IMG_20191126_160347.jpg
+./data/yolomark-test/IMG_20191126_155347.jpg
+./data/yolomark-test/IMG_20191126_160339.jpg
+./data/yolomark-test/20191126_155444.jpg
+./data/yolomark-test/IMG_20191126_161111.jpg
+./data/yolomark-test/20191126_160225.jpg
+./data/yolomark-test/Screenshot (89).jpg
+./data/yolomark-test/20191126_160101.jpg
+./data/yolomark-test/Screenshot (75).jpg
+./data/yolomark-test/Screenshot (55).jpg
+./data/yolomark-test/Screenshot (77).jpg
+./data/yolomark-test/Screenshot (80).jpg
+./data/yolomark-test/Screenshot (67).jpg
+./data/yolomark-test/IMG_20191126_160920.jpg
+./data/yolomark-test/IMG_20191126_160224.jpg
+./data/yolomark-test/IMG_20191126_160211.jpg
+./data/yolomark-test/IMG_20191126_160045.jpg
+./data/yolomark-test/IMG_20191126_160353.jpg
+./data/yolomark-test/20191126_160400.jpg
+./data/yolomark-test/Screenshot (74).jpg
+./data/yolomark-test/IMG_20191126_160511.jpg
+./data/yolomark-test/IMG_20191126_160823.jpg
+./data/yolomark-test/IMG_20191126_160436.jpg
+./data/yolomark-test/20191126_160352.jpg
+./data/yolomark-test/Screenshot (58).jpg
+./data/yolomark-test/20191126_160136.jpg
+./data/yolomark-test/Screenshot (68).jpg
+./data/yolomark-test/IMG_20191126_161139.jpg
+./data/yolomark-test/Screenshot (61).jpg
+./data/yolomark-test/IMG_20191126_160502.jpg
+./data/yolomark-test/20191126_160116.jpg
+./data/yolomark-test/20191126_160158.jpg
+./data/yolomark-test/IMG_20191126_160142.jpg
+./data/yolomark-test/IMG_20191126_160149.jpg
+./data/yolomark-test/IMG_20191126_160506.jpg
+./data/yolomark-test/IMG_20191126_160434.jpg
+./data/yolomark-test/IMG_20191126_155503_1.jpg
+./data/yolomark-test/Screenshot (92).jpg
+./data/yolomark-test/Screenshot (64).jpg
+./data/yolomark-test/Screenshot (87).jpg
+./data/yolomark-test/Screenshot (84).jpg
+./data/yolomark-test/Screenshot (62).jpg
+./data/yolomark-test/IMG_20191126_160452.jpg
+./data/yolomark-test/IMG_20191126_160131.jpg
+./data/yolomark-test/IMG_20191126_160429.jpg
+./data/yolomark-test/IMG_20191126_161121.jpg
+./data/yolomark-test/20191126_155434.jpg
+./data/yolomark-test/IMG_20191126_160122.jpg
+./data/yolomark-test/IMG_20191126_160747.jpg
+./data/yolomark-test/Screenshot (51).jpg
+./data/yolomark-test/IMG_20191126_160458.jpg
+./data/yolomark-test/IMG_20191126_161202.jpg
+./data/yolomark-test/Screenshot (57).jpg
+./data/yolomark-test/Screenshot (86).jpg
+./data/yolomark-test/Screenshot (54).jpg
+./data/yolomark-test/IMG_20191126_160911.jpg
+./data/yolomark-test/Screenshot (56).jpg
+./data/yolomark-test/IMG_20191126_160408.jpg
+./data/yolomark-test/IMG_20191126_160107.jpg
+./data/yolomark-test/IMG_20191126_160840.jpg
+./data/yolomark-test/20191126_160211.jpg
+./data/yolomark-test/IMG_20191126_160405.jpg
+./data/yolomark-test/Screenshot (73).jpg
+./data/yolomark-test/20191126_160219.jpg
+./data/yolomark-test/20191126_160141.jpg
+./data/yolomark-test/20191126_160129.jpg
+./data/yolomark-test/20191126_160208.jpg
+./data/yolomark-test/20191126_155423.jpg
+./data/yolomark-test/IMG_20191126_161237.jpg
+./data/yolomark-test/IMG_20191126_160817.jpg
+./data/yolomark-test/IMG_20191126_161149.jpg
+./data/yolomark-test/Screenshot (90).jpg
+./data/yolomark-test/20191126_160206.jpg
+./data/yolomark-test/20191126_155430.jpg
+./data/yolomark-test/IMG_20191126_160413.jpg
+./data/yolomark-test/Screenshot (65).jpg
+./data/yolomark-test/IMG_20191126_161123.jpg
+./data/yolomark-test/Screenshot (88).jpg
+./data/yolomark-test/IMG_20191126_161240.jpg
+./data/yolomark-test/IMG_20191126_161235.jpg
+./data/yolomark-test/Screenshot (85).jpg
+./data/yolomark-test/IMG_20191126_160854.jpg
+./data/yolomark-test/IMG_20191126_161205.jpg
+./data/yolomark-test/IMG_20191126_161200.jpg
+./data/yolomark-test/IMG_20191126_155350.jpg
+./data/yolomark-test/20191126_160114.jpg
+./data/yolomark-test/IMG_20191126_161142.jpg
+./data/yolomark-test/IMG_20191126_160113.jpg
+./data/yolomark-test/IMG_20191126_155326.jpg
+./data/yolomark-test/IMG_20191126_161242.jpg
+./data/yolomark-test/Screenshot (81).jpg
+./data/yolomark-test/IMG_20191126_161127.jpg
+./data/yolomark-test/IMG_20191126_161217.jpg
+./data/yolomark-test/IMG_20191126_160202.jpg
+./data/yolomark-test/IMG_20191126_155324.jpg
+./data/yolomark-test/IMG_20191126_161135.jpg
+./data/yolomark-test/20191126_160217.jpg
+./data/yolomark-test/20191126_155432.jpg
+./data/yolomark-test/20191126_155440.jpg
+./data/yolomark-test/20191126_160153.jpg
+./data/yolomark-test/Screenshot (49).jpg
+./data/yolomark-test/IMG_20191126_161129.jpg
+./data/yolomark-test/IMG_20191126_161146.jpg
+./data/yolomark-test/Screenshot (82).jpg
+./data/yolomark-test/IMG_20191126_160118.jpg
+./data/yolomark-test/Screenshot (78).jpg
+./data/yolomark-test/IMG_20191126_161219.jpg
+./data/yolomark-test/Screenshot (63).jpg
+./data/yolomark-test/IMG_20191126_160853.jpg
+./data/yolomark-test/IMG_20191126_160034.jpg
+./data/yolomark-test/Screenshot (60).jpg
+./data/yolomark-test/IMG_20191126_160050.jpg
+./data/yolomark-test/IMG_20191126_160124.jpg
+./data/yolomark-test/IMG_20191126_160356.jpg
+./data/yolomark-test/IMG_20191126_160333.jpg
+./data/yolomark-test/IMG_20191126_161118.jpg
+./data/yolomark-test/20191126_155437.jpg
+./data/yolomark-test/IMG_20191126_160751.jpg
+./data/yolomark-test/IMG_20191126_155318.jpg
+./data/yolomark-test/IMG_20191126_160216.jpg
+./data/yolomark-test/IMG_20191126_160042.jpg
+./data/yolomark-test/IMG_20191126_161228.jpg
+./data/yolomark-test/IMG_20191126_160027.jpg
+./data/yolomark-test/20191126_155442.jpg
+./data/yolomark-test/IMG_20191126_161210.jpg
+./data/yolomark-test/IMG_20191126_160151.jpg
+./data/yolomark-test/Screenshot (76).jpg
+./data/yolomark-test/20191126_160108.jpg
+./data/yolomark-test/IMG_20191126_161108.jpg
+./data/yolomark-test/20191126_155427.jpg
+./data/yolomark-test/IMG_20191126_160833.jpg
+./data/yolomark-test/IMG_20191126_161222.jpg
+./data/yolomark-test/20191126_160351.jpg
+./data/yolomark-test/Screenshot (50).jpg
+./data/yolomark-test/20191126_155439.jpg
+./data/yolomark-test/IMG_20191126_160425.jpg
+./data/yolomark-test/IMG_20191126_161226.jpg
+./data/yolomark-test/IMG_20191126_160331.jpg
+./data/yolomark-test/20191126_160122.jpg
+./data/yolomark-test/IMG_20191126_160102.jpg
+./data/yolomark-test/IMG_20191126_160932.jpg
+./data/yolomark-test/Screenshot (52).jpg
+./data/yolomark-test/Screenshot (71).jpg
+./data/yolomark-test/IMG_20191126_160201.jpg
+./data/yolomark-test/Screenshot (69).jpg
+./data/yolomark-test/IMG_20191126_161230.jpg
+./data/yolomark-test/20191126_160112.jpg
+./data/yolomark-test/20191126_160223.jpg
+./data/yolomark-test/IMG_20191126_155331.jpg
+./data/yolomark-test/20191126_155421.jpg
+./data/yolomark-test/20191126_160213.jpg
+./data/yolomark-test/IMG_20191126_161114.jpg
+./data/yolomark-test/20191126_160121.jpg
+./data/yolomark-test/IMG_20191126_160446.jpg
